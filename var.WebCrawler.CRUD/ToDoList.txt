@@ -1,0 +1,6 @@
+1- We should get the second the nutritioce table 
+2- We should make a function that get the tables and we just should pass it the xpath of the table
+3- Getting information from the web takes too much time so we need to use Asysncronous function
+4- (Not Sure) we should use the parallel programming your another method because it takes alot time to finish
+5- we should use the informations to do statistics
+6- ...

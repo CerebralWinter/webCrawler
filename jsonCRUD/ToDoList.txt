@@ -1,0 +1,5 @@
+1- I should create a class with attribute category and nutriotion and then use it to save all the nutrion names and theri category in alist
+2-we can use that list in add operation to fill beside the general information also the nutrion and langual code and chart code of the food
+3-in addition operation after the user insert the genral information can also insert the nutrition type by the category of it
+4- should make the buffer section that the user can save the selected items in a specific buffer ---> done
+
